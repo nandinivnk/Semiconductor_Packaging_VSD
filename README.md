@@ -7,7 +7,7 @@ Welcome to the summary of the Semiconductor Packaging Workshop. This document is
 ## 📚 Table of Contents
 
 <details>
-<summary>1. [Module 1: Packaging Evolution: From Basics to 3D Integration](#module-1-packaging-evolution-from-basics-to-3d-integration)</summary>
+<summary>1. [Module 1: Packaging Evolution: From Basics to 3D Integration] </summary>(#module-1-packaging-evolution-from-basics-to-3d-integration)
 
 - [ ] Introduction to Semiconductor Packaging and Industry Overview  
 - [ ] Understanding Package Requirements and Foundational Package Types  
