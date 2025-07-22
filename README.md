@@ -8,27 +8,27 @@ Welcome to the summary of the Semiconductor Packaging Workshop. This document is
 
 <details> 
    <summary> 1. [Module 1: Packaging Evolution: From Basics to 3D Integration](#module-1-introduction) </summary>
-                  - Introduction To Semiconductor Packaging And Industry Overview
-                  - Understanding Package Requirements And Foundational Package Types
-                  - Evolving Package Architectures - From Single Chip To Multi-Chip Modules
-                  - Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches
+                  - Introduction To Semiconductor Packaging And Industry Overview  
+                  - Understanding Package Requirements And Foundational Package Types  
+                  - Evolving Package Architectures - From Single Chip To Multi-Chip Modules  
+                  - Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches  
                   - Comparative Analysis And Selecting The Right Packaging Solution
       </details>
 <details>
 <summary> 2. [Module 2: From Wafer to Package: Assembly and Manufacturing Essentials](#module-2-assembly)</summary>
-                 - Setting The Stage - Supply Chain And Facilities
-                 - Wafer Pre-Preparation - Grinding And Dicing
-                 - Wire Bond Packaging - Die Attach To Molding
-                 - Flip Chip Assembly - Bump Formation And Underfill
-                 - Wafer Level Packaging And Conclusion
+                 - Setting The Stage - Supply Chain And Facilities  
+                 - Wafer Pre-Preparation - Grinding And Dicing  
+                 - Wire Bond Packaging - Die Attach To Molding  
+                 - Flip Chip Assembly - Bump Formation And Underfill  
+                 - Wafer Level Packaging And Conclusion  
    </details>
 <details> 
 <summary> 3. [Module 3: Labs: Thermal Simulation of Semiconductor Packages with ANSYS](#module-3-lab1)</summary>
-                 - Introduction And Getting Started With ANSYS Electronics Desktop
-                 - Setting Up A Flip-Chip BGA Package
-                 - Material Definitions And Thermal Power Sources
-                 - Meshing And Running The Thermal Analysis
-                 - Viewing Results And Exploring Other Package Types
+                 - Introduction And Getting Started With ANSYS Electronics Desktop  
+                 - Setting Up A Flip-Chip BGA Package  
+                 - Material Definitions And Thermal Power Sources  
+                 - Meshing And Running The Thermal Analysis  
+                 - Viewing Results And Exploring Other Package Types  
 </details>
 
 <details> 
