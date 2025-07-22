@@ -9,13 +9,12 @@ Welcome to the summary of the Semiconductor Packaging Workshop. This document is
 
    1. [Module 1: Packaging Evolution: From Basics to 3D Integration](#module-1-introduction)
 <details> 
-        <summary> - Introduction To Semiconductor Packaging And Industry Overview 
+                  - Introduction To Semiconductor Packaging And Industry Overview 
                   - Understanding Package Requirements And Foundational Package Types
                   - Evolving Package Architectures - From Single Chip To Multi-Chip Modules
                   - Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches 
                   - Comparative Analysis And Selecting The Right Packaging Solution 
-        </summary>
-   </details>
+      </details>
 2. [Module 2: From Wafer to Package: Assembly and Manufacturing Essentials](#module-2-assembly)
 3. [Module 3: Labs: Thermal Simulation of Semiconductor Packages with ANSYS](#module-3-lab1)
 4. [Module 4: Ensuring Package Reliability: Testing and Performance Validation](#module-4-reliability)
