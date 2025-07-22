@@ -67,7 +67,9 @@ Welcome to the summary of the Semiconductor Packaging Workshop. This document is
 
 </details>
 
+<details>
 ## Module 1: Packaging Evolution – From Basics to 3D Integration
+</details>
 
 ## Module 2: From Wafer to Package – Assembly and Manufacturing Essentials
 
