@@ -8,7 +8,8 @@ Welcome to the summary of the Semiconductor Packaging Workshop. This document is
 
 <details> 
    <summary> 1. [Module 1: Packaging Evolution: From Basics to 3D Integration](#module-1-introduction) </summary>
-              <pre> - Introduction To Semiconductor Packaging And Industry Overview <br>
+              <pre> 
+                  - Introduction To Semiconductor Packaging And Industry Overview <br>
                   - Understanding Package Requirements And Foundational Package Types <br> 
                   - Evolving Package Architectures - From Single Chip To Multi-Chip Modules <br>  
                   - Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches <br>
