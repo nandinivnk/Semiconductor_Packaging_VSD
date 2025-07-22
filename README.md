@@ -68,13 +68,20 @@ Welcome to the summary of the Semiconductor Packaging Workshop. This document is
 </details>
 
 <details>
-## Module 1: Packaging Evolution – From Basics to 3D Integration
+<summary>## Module 1: Packaging Evolution – From Basics to 3D Integration</summary>
 </details>
 
-## Module 2: From Wafer to Package – Assembly and Manufacturing Essentials
+<details>
+  <summary>## Module 2: From Wafer to Package – Assembly and Manufacturing Essentials</summary>
+</details>
+<details>
+<summary>## Module 3: Labs – Thermal Simulation of Semiconductor Packages with ANSYS</summary>summary>
+</details>
 
-## Module 3: Labs – Thermal Simulation of Semiconductor Packages with ANSYS
+<details>
+  <summary>## Module 4: Ensuring Package Reliability – Testing and Performance Validation </summary>
+</details>
 
-## Module 4: Ensuring Package Reliability – Testing and Performance Validation
-
-## Module 5: Package Design and Modeling – Building a Semiconductor Package from Scratch
+<details>
+<summary>## Module 5: Package Design and Modeling – Building a Semiconductor Package from Scratch </summary>
+</details>
