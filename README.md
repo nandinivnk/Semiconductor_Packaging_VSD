@@ -17,33 +17,40 @@ Welcome to the summary of the Semiconductor Packaging Workshop. This document is
       </details>
 <details>
 <summary> 2. [Module 2: From Wafer to Package: Assembly and Manufacturing Essentials](#module-2-assembly)</summary>
-                 - Setting The Stage - Supply Chain And Facilities  
-                 - Wafer Pre-Preparation - Grinding And Dicing  
-                 - Wire Bond Packaging - Die Attach To Molding  
-                 - Flip Chip Assembly - Bump Formation And Underfill  
-                 - Wafer Level Packaging And Conclusion  
+               <pre>
+                 - Setting The Stage - Supply Chain And Facilities  <br>
+                 - Wafer Pre-Preparation - Grinding And Dicing  <br>
+                 - Wire Bond Packaging - Die Attach To Molding  <br>
+                 - Flip Chip Assembly - Bump Formation And Underfill <br>  
+                 - Wafer Level Packaging And Conclusion  </pre>
    </details>
 <details> 
 <summary> 3. [Module 3: Labs: Thermal Simulation of Semiconductor Packages with ANSYS](#module-3-lab1)</summary>
-                 - Introduction And Getting Started With ANSYS Electronics Desktop  
-                 - Setting Up A Flip-Chip BGA Package  
-                 - Material Definitions And Thermal Power Sources  
-                 - Meshing And Running The Thermal Analysis  
-                 - Viewing Results And Exploring Other Package Types  
+   <pre>
+                 - Introduction And Getting Started With ANSYS Electronics Desktop  <br>
+                 - Setting Up A Flip-Chip BGA Package  <br>
+                 - Material Definitions And Thermal Power Sources <br> 
+                 - Meshing And Running The Thermal Analysis  <br>
+                 - Viewing Results And Exploring Other Package Types <br> 
+</pre>
 </details>
 
 <details> 
    <summary> 4. [Module 4: Ensuring Package Reliability: Testing and Performance Validation](#module-4-reliability)</summary>
-                 - Introduction to Package Testing and Electrical Functionality Checks
-                 - Reliability and Performance Testing of Semiconductor Packages             
+               <pre>
+                 - Introduction to Package Testing and Electrical Functionality Checks <br>
+                 - Reliability and Performance Testing of Semiconductor Packages      
+               </pre>
 </details>
 <details>
 <summary> 5. [Module 5: Package Design and Modeling: Building a Semiconductor Package from Scratch](#module-5-lab2) </summary>
-                  - Introduction to Package Cross-Section Modeling in ANSYS Electronics Desktop (AEDT)
-                  - Creating the Die and Substrate in AEDT
-                  - Adding Die Attach Material and Bond Pads
-                  - Wire Bond Creation and Material Assignment
+                <pre>
+                  - Introduction to Package Cross-Section Modeling in ANSYS Electronics Desktop (AEDT) <br>
+                  - Creating the Die and Substrate in AEDT <br>
+                  - Adding Die Attach Material and Bond Pads <br>
+                  - Wire Bond Creation and Material Assignment <br>
                   - Applying Mold Compound and Finalizing the Package Model
+                </pre>
 
 ## 🧠 Module 1: Packaging Evolution: From Basics to 3D Integration
 
